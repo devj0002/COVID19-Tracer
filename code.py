@@ -10,7 +10,7 @@ import os
 
 
 def parse(dic):
-    # takes dict as param
+    # takes dict as param  dev joshi
     # repr json data
     # iterate over every key, and print element at that key
     print("\n**********************")
